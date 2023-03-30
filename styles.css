@@ -1,0 +1,22 @@
+
+
+    .box {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        border-radius: 12px;
+        border: 2px solid #a63838;
+     
+        
+
+      }
+
+      .box .image {
+        width: 200px;
+        height: 200px;
+        border-radius: 10px;
+        background-size: cover;
+        background-position: center;
+        background-image: url(dice1.png);
+
+      }
